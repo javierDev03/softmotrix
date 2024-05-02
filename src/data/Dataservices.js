@@ -5,7 +5,7 @@ export const Dataservices = [
     description:
       "Creamos sitios web a medida que reflejan la identidad y los valores de tu marca, utilizando las últimas tecnologías y tendencias de diseño.",
     tags: ["#Diseño", "#UIUX", "#Responsivo"],
-    image: "../public/img/diseño web.jpg",
+    image: "src/img/diseño web.jpg",
   },
   {
     id: 2,
@@ -13,7 +13,7 @@ export const Dataservices = [
     description:
       "Creamos aplicaciones web personalizadas que satisfacen tus necesidades específicas, brindando funcionalidades avanzadas y una experiencia de usuario excepcional.",
     tags: ["#WebApps", "#DesarrolloMobile"],
-    image: "../public/img/aplicaciones.jpg",
+    image: "src/img/aplicaciones.jpg",
   },
   {
     id: 3,
@@ -21,6 +21,6 @@ export const Dataservices = [
     description:
       "Integramos tu sitio web con otras plataformas y sistemas para mejorar la eficiencia y la funcionalidad de tu negocio en línea.",
     tags: ["#IntegraciónAPI", "#SincroDeDatos"],
-    image: "../public/img/sistemas.jpg",
+    image: "src/img/sistemas.jpg",
   },
 ];
